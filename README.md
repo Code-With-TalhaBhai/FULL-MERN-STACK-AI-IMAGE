@@ -1,0 +1,1 @@
+This is a full-stack MERN PROJECT. In this project, OPENAI api is used to generate images on the backend and mongodb is also used. It is kinnda social media website in which anyone can generate and share their photo.
